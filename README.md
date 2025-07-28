@@ -1,1 +1,1 @@
-# Smart-Gate-Community-System
+Developed the Smart Gate Community System, a Python/MySQL access control app, implementing stored procedures and triggers for data integrity, with a guard interface for visitor/delivery logs, resident approval features, and an admin panel for record management.
